@@ -1,0 +1,22 @@
+h2 {
+  color: darkgrey;
+}
+
+h3 {
+  text-decoration: underline;
+}
+
+.intro {
+  font-size: 30px;
+
+}
+.important {
+  font-weight: bolder;
+}
+.skill {
+  font-size: 20px;
+}
+
+.italic {
+  font-style: italic;
+}
